@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CppParser_Test": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\famas\\app\\UE_4.26\\Engine\\Source\""
+    }
+  }
+}
